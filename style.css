@@ -1,0 +1,57 @@
+* {
+  box-sizing: border-box;
+}
+#demo {
+  height: 100%;
+  width: 100%;
+}
+h1,
+h3 {
+  text-align: center;
+  margin: 0 auto;
+}
+.container {
+  margin: 0 auto;
+  text-align: center;
+  overflow: auto;
+  width: 280px;
+  height: 280px;
+  display: block;
+  list-style: none;
+  padding: 0px;
+  padding-left: 0px;
+  position: fixed;
+  right: 1px;
+  bottom: 1px;
+}
+
+li {
+  box-sizing: border-box;
+  float: left;
+  height: 70px;
+  width: 70px;
+  margin: 5px 3px;
+}
+#one,
+#two,
+#three,
+#four,
+#five,
+#six,
+#seven,
+#eight,
+#nine,
+#ten,
+#eleven,
+#twelve,
+#thirteen,
+#fourteen,
+#fifteen,
+#sixteen,
+#seventeen,
+#eighteen,
+#nineteen,
+#twenty {
+  width: 100px;
+  height: 100px;
+}
